@@ -1,7 +1,3 @@
-// npm test
-// COMMAND TO RUN TESTS
-// sudo npm install -g mocha
-// mocha --version
 const chai = require('chai');
 const assert = chai.assert;
 
@@ -170,3 +166,8 @@ suite('Unit Tests', function () {
 
   // -----------------------------------------------------------------------------
 });
+
+// npm test
+// COMMAND TO RUN TESTS
+// sudo npm install -g mocha
+// mocha --version
